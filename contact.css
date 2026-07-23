@@ -28,6 +28,7 @@ body{
     margin:auto;
     color:#666;
     line-height:1.8;
+    text-align: center;
 }
 
 /* Contact */
@@ -206,6 +207,7 @@ body{
     max-width:650px;
     margin:0 auto 30px;
     line-height:1.8;
+    text-align: center;
 }
 
 .reserve-btn{
